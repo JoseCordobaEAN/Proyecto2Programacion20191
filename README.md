@@ -42,3 +42,34 @@ de un archivo y validar sus complementos
 su archivo para detectar anomalias geneticas
 
 ![ADN](dna-1116336_640.png)
+
+---
+
+## Metodología
+
+- En este directorio encontrarán dos archivos de Python:
+    1. "funciones.py" contiene las funciones en blanco a implementar.
+    2. "pruebas.py" contiene las pruebas que le ayudarán a validar el correcto
+funcionamiento de su implementación.
+
+- Realice un fork al repositorio en Github.
+
+- Cree una rama en su repositorio para:
+    -Desarrollo
+    -Documentación
+    -Pruebas
+
+- En grupo dividan el número de funciones de tal forma que cada uno aporte en las fuciones los siguientes roles diferentes:
+    - Documentador
+    - Pruebas
+    - Desarollador
+
+- Documente cada una de las funciones incluyendo las pruebas
+
+- Desarrolle todas las funciones teniendo en cuenta la receta para la elaboración de una función (Recuerde reutilizar las funciones).
+
+- Valide el funcionamiento con las pruebas.
+
+- Valide sus funciones contra las pruebas realizadas
+
+- Suba las capturas de las evidencias de commit de todos los integrantes del grupo en un iforme de desarrollo del proyecto al aula virtual, asi como, el código fuente de su solución.
