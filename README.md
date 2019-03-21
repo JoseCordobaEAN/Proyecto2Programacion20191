@@ -41,7 +41,7 @@ no valida.
 
 1. Una función unir cadenas que retorne una cadena de adn dada una lista de cadenas (debe validar que sean secuencias validas)
 
-1 Una función complemento de cadenas  que retorne una cadena complementaria dada una lista de cadenas (debe validar las secuencias)
+1. Una función complemento de cadenas  que retorne una cadena complementaria dada una lista de cadenas (debe validar las secuencias)
 
 ### ¿Que hacer Despues?
 
