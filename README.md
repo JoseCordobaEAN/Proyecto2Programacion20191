@@ -23,8 +23,6 @@ no valida.
 
 1. La función para generar la cadena complementaria
 
-1. La función para validar una base
-
 1. La función para calcular el porcentaje de correspondencia de una cadena y otra
 
 1. La función que nos valida la correspondencia entre dos cadenas
@@ -32,6 +30,18 @@ no valida.
 1. La función para validar si todos las bases son validas en la cadena
 
 1. La función es base
+
+1. Una función es sub cadena, que recibe dos cadenas de adn, las valida y verifica si una es una subcdena de la otra
+
+1. Una función reparar daño que reemplaza los elementos no correspondientes con una base dada
+
+1. Una función obtener secciones que entregue una lista de secciones, dada una cadena de adn y un numero de secciones
+
+1. Una función complementos_por_secciones que entregue una lista de cadenas  de adn complementarias dada una lista de cadenas de adn
+
+1. Una función unir cadenas que retorne una cadena de adn dada una lista de cadenas (debe validar que sean secuencias validas)
+
+1 Una función complemento de cadenas  que retorne una cadena complementaria dada una lista de cadenas (debe validar las secuencias)
 
 ### ¿Que hacer Despues?
 
@@ -48,9 +58,8 @@ su archivo para detectar anomalias geneticas
 ## Metodología
 
 - En este directorio encontrarán dos archivos de Python:
-    1. "funciones.py" contiene las funciones en blanco a implementar.
-    2. "pruebas.py" contiene las pruebas que le ayudarán a validar el correcto
-funcionamiento de su implementación.
+    1. "adn.py" contiene las funciones en blanco a implementar.
+    2. "pruebas.py" contiene donde relizará las pruebas a sus funciones
 
 - Realice un fork al repositorio en Github.
 
