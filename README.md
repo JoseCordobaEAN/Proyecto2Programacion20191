@@ -61,6 +61,8 @@ su archivo para detectar anomalias geneticas
     1. "adn.py" contiene las funciones en blanco a implementar.
     2. "pruebas.py" contiene donde relizará las pruebas a sus funciones
 
+- Marque con una estrella este repositorio.
+
 - Realice un fork al repositorio en Github.
 
 - Cree una rama en su repositorio para:
